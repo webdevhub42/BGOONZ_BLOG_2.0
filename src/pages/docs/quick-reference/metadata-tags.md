@@ -1,7 +1,7 @@
 ---
 title: A simple guide to HTML Head Elements
 weight: 0
-excerpt: lorem-ipsum
+excerpt: A simple guide to HTML Head Elements
 seo:
   title: ''
   description: ''
