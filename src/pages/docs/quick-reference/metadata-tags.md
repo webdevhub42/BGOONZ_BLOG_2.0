@@ -4,7 +4,7 @@ weight: 0
 excerpt: A simple guide to HTML Head Elements
 seo:
   title: ''
-  description: ''
+  description: 'Below are the essential elements for any web document '
   robots: []
   extra: []
 template: docs
