@@ -9,6 +9,7 @@ seo:
   extra: []
 template: docs
 ---
+
 # 🤯 HEAD
 
 > A simple guide to HTML `<head>` elements
