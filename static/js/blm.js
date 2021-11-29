@@ -167,4 +167,4 @@ var BLMBadge = new MakerBadge();
        message : 'To be silent is to be complicit. Black lives matter.',
        title : '#BlackLivesMatter',
        imageAlt: "Black Lives Matter Badge"
-})
+});
